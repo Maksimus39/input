@@ -26,4 +26,5 @@ export const FullInput = (props: FullInputPropsType) => {
         </div>
     );
 };
+//1й вид инпута
 
